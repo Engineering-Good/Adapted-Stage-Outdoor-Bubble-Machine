@@ -9,7 +9,7 @@ There are 3 buttons to control the overall movement of the bubble machine. When 
 When the second button is pressed, it will signal the machine to blow out bubbles 
 When the third (top-most) button is pressed, the machine will signal the light to turn on and it would blow out bubbles
 
-<img src="photos/Outdoor-Bubble-Machine.jpg" width="500" style="border-radius: 15px" alt="Picture of Template A Nice Main Device Name.">
+<img src="photos/Outdoor-Bubble-Machine.jpg" width="500" style="border-radius: 15px" alt="Picture of Adapted Stage Outdoor Bubble Machine A Nice Main Device Name.">
 
 ## How to Obtain the Device
 
@@ -19,7 +19,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Get Involved: Requests & Volunteering
 
-- Need this device? If you or someone you know could benefit from the TEMPLATE, please send us an email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org). We also invite you to share your journey with us! Tell us your stories about the device and feedback help us make our assistive tech even better!
+- Need this device? If you or someone you know could benefit from the Adapted Stage Outdoor Bubble Machine, please send us an email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org). We also invite you to share your journey with us! Tell us your stories about the device and feedback help us make our assistive tech even better!
 
 - Want to help? We are always looking for volunteers to help build these devices for the community. If you have the skills and want to contribute, please contact us via email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
 
@@ -33,7 +33,7 @@ The [Maker Guide](/documentation/Product_Manual_Adapted_Outdoor_Bubble_Machine.p
 
 The [Bill of Materials](/documentation/Adapted_Outdoor_Bubble_Machine_BOM.csv) lists all of the parts and components required to build the Adapted Stage Outdoor Bubble Machine.
 
-### 3. Assemble the Template Device
+### 3. Assemble the Adapted Stage Outdoor Bubble Machine Device
 
 Reference the Assembly Guide section of the [Maker Guide](/documentation/Product_Manual_Adapted_Outdoor_Bubble_Machine.pdf) for the tools and steps required to build each portion.
 
