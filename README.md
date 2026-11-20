@@ -31,7 +31,7 @@ The [Maker Guide](/documentation/Product_Manual_Adapted_Outdoor_Bubble_Machine.p
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/documentation/Adapted_Outdoor_Bubble_Machine_BOM.csv) lists all of the parts and components required to build the Template Device.
+The [Bill of Materials](/documentation/Adapted_Outdoor_Bubble_Machine_BOM.csv) lists all of the parts and components required to build the Adapted Stage Outdoor Bubble Machine.
 
 ### 3. Assemble the Template Device
 
