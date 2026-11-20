@@ -1,41 +1,15 @@
-# T4G-Template
-<!--- delete this part after done. Start --->
-This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. More information about how to use the template is available in the [OpenAT_Template_Guide](https://github.com/makersmakingchange/OpenAT-Template/blob/main/OpenAT_Template_Guide.pdf). * working in progress for EG T4G Template Guide.
-<!--- TITLE --->
-<!--- Open Source Assistive Technology: GitHub Readme Template --->
-
-
-<!--- INSTRUCTIONS --->
-<!--- This is a markdown template for creating the README.md file in a GitHub repository. This file is rendered and displayed automatically when someone visits the repository.
-
-This document includes helper text that will not be displayed when rendered. Any text between the less-than sign + exclamation mark + three hyphen-minus (<!---) and matching three hyphen-minus + greater-than sign will not be displayed. This helper text can be deleted once the corresponding section is completed.
-
-This template has a number of fields that can be searched and replaced with other text:
- - <Device_Name> Replace this with filename-friendly version of the device with underscores. e.g., T4G-Adapted-Recorder-Button
- - <DeviceName> Replace this with the human-readable name of the device with spaces. e.g., Adapted RecorderButton
- - <DesignerName> Replace this with the person or organization responsible for the design. e.g., John Doe.
- - <Repository_Link> Replace this with the web address for the repository. e.g., (e.g., https://github.com/Engineering-Good/T4G-Adapted-Recorder-Button))
- - <MaterialCost> Replace this with the dollar cost and currency (SGD, USD, etc.) of the materials of the device.
- - <ShippingCost> Replace this with the dollar cost and currency (SGD, USD, etc.) of shipping the device (if possible).
- - <YEAR> year(s) of the copyright 
- 
-Any text that is currently holding a space / is an instruction for the person filling in the README is in all capitals, to make it easier to see them in a rendered version.
---->
-<!--- delete this part after done. End --->
-
-# Overview
+# Adapted Stage Outdoor Bubble Machine
 <!--- TITLE --->
 <!--- SUMMARY --->
-The is an assistive technology device that.
+This is a bubble machine Toy with a wireless remote controller.
+We adapted the remote controller and soldered a female audio cable on it
 
-The device is comprised of off-the-shelf electronics and 3D printed parts.
+Bubble machine is filled up with bubble solution till full, and screw back button portion to be the base
+There are 3 buttons to control the overall movement of the bubble machine. When the first button is pressed, it would signal the light of the bubble machine to turn on
+When the second button is pressed, it will signal the machine to blow out bubbles 
+When the third (top-most) button is pressed, the machine will signal the light to turn on and it would blow out bubbles
 
-The is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
-
-The overall cost of materials is about $ (excluding component shipping fee).
-
-The current version of the device (v1.0) has been built and user tested.
-<img src="photos/device-name.jpg" width="500" style="border-radius: 15px" alt="Picture of Template A Nice Main Device Name.">
+<img src="photos/Outdoor-Bubble-Machine.jpg" width="500" style="border-radius: 15px" alt="Picture of Adapted Stage Outdoor Bubble Machine A Nice Main Device Name.">
 
 ## How to Obtain the Device
 
@@ -45,7 +19,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Get Involved: Requests & Volunteering
 
-- Need this device? If you or someone you know could benefit from the TEMPLATE, please send us an email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org). We also invite you to share your journey with us! Tell us your stories about the device and feedback help us make our assistive tech even better!
+- Need this device? If you or someone you know could benefit from the Adapted Stage Outdoor Bubble Machine, please send us an email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org). We also invite you to share your journey with us! Tell us your stories about the device and feedback help us make our assistive tech even better!
 
 - Want to help? We are always looking for volunteers to help build these devices for the community. If you have the skills and want to contribute, please contact us via email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
 
@@ -53,15 +27,15 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/documentation/Product_Manual_Template_Product_Name.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
+The [Maker Guide](/documentation/Product_Manual_Adapted_Outdoor_Bubble_Machine.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/documentation/Template_BOM.csv) lists all of the parts and components required to build the Template Device.
+The [Bill of Materials](/documentation/Adapted_Outdoor_Bubble_Machine_BOM.csv) lists all of the parts and components required to build the Adapted Stage Outdoor Bubble Machine.
 
-### 3. Assemble the Template Device
+### 3. Assemble the Adapted Stage Outdoor Bubble Machine Device
 
-Reference the Assembly Guide section of the [Maker Guide](/documentation/Product_Manual_Template_Product_Name.pdf) for the tools and steps required to build each portion.
+Reference the Assembly Guide section of the [Maker Guide](/documentation/Product_Manual_Adapted_Outdoor_Bubble_Machine.pdf) for the tools and steps required to build each portion.
 
 ## How to improve this Device
 
@@ -73,22 +47,10 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Maker Guide          | 1.0     | [Template_Maker_Guide](/documentation/Product_Manual_Template_Product_Name.pdf)     |
-| Bill of Materials    | 1.0     | [Template_Bill_of_Materials](/documentation/Template_BOM.csv)     |
-| User Guide           | 1.0     | [Template_User_Guide](/documentation/Product_Manual_Template_Product_Name.pdf)    |
-| Changelog            | 1.0     | [Template_Change_Log](/documentation/CHANGES.txt)     |
-
-## Open Hardware Attribution
-
-The template was designed by.
-
-The documentation template was created by Makers Making Change / Neil Squire Society and is used under a CC BY-SA 4.0 license. It is available at the following link: [MMC OpenAt Template](https://github.com/makersmakingchange/OpenAT-Template)
-
-The core design for this device/template is based on the some device/template, an open-source assistive technology project.
-- Original Designer: Makers Making Change (a program of Neil Squire).
-- Original Copyright:  Copyright (c) Neil Squire / Makers Making Change.
-- Original Source Location: The original project source files are available online at: 
-<https://github.com/makersmakingchange/OpenAT-Template>
+| Maker Guide          | 1.0     | [Adapted_Outdoor_Bubble_Machine_Maker_Guide](/documentation/Product_Manual_Adapted_Outdoor_Bubble_Machine.pdf)     |
+| Bill of Materials    | 1.0     | [Adapted_Outdoor_Bubble_Machine_Bill_of_Materials](/documentation/Adapted_Outdoor_Bubble_Machine_BOM.csv)     |
+| User Guide           | 1.0     | [Adapted_Outdoor_Bubble_Machine_User_Guide](/documentation/Product_Manual_Adapted_Outdoor_Bubble_Machine.pdf)    |
+| Changelog            | 1.0     | [Adapted_Outdoor_Bubble_Machine_Change_Log](/documentation/CHANGES.txt)     |
 
 ## License
 
@@ -96,7 +58,7 @@ Copyright (c) 2024 Engineering Good.
 
 This repository describes Open Hardware:
 
-- Everything needed or used to design, make, test, or prepare the Template is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl).
+- Everything needed or used to design, make, test, or prepare the Adapted Stage Outdoor Bubble Machine is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl).
 - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
 - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Playback Switch are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -104,7 +66,7 @@ You may redistribute and modify this documentation and make products using it un
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-W v2 for applicable conditions.
 
-Source Location: <https://github.com/Engineering-Good/T4G-Template>
+Source Location: <https://github.com/Engineering-Good/Adapted-Stage-Outdoor-Bubble-Machine>
 
 
 ----
@@ -126,7 +88,7 @@ Source Location: <https://github.com/Engineering-Good/T4G-Template>
 
 For technical or non-techical questions, to get involved, or to share your experience we encourage you to 
 - Visit [our website](https://www.engineeringgood.org/)
-- Vontact us via [contact us form](https://www.engineeringgood.org/contact-faq/)
+- Contact us via [contact us form](https://www.engineeringgood.org/contact-faq/)
 - Email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org)
 - Volunteering Opportunities [working in progress](https://www.notion.so/engineeringgood/Volunteering-Opportunities-2025-ffa3d3ec8bb34ac7a672f5c10ee8177b)
 <!-- ABOUT EG END -->
